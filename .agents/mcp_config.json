@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "roboflow": {
+      "url": "https://mcp.roboflow.com/mcp",
+      "headers": {
+        "Authorization": "Bearer 0pcN46PMA6awFdLklUAQ"
+      }
+    }
+  }
+}

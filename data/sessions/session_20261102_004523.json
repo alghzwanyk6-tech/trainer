@@ -1,0 +1,51 @@
+{
+  "timestamp": "20261102_004523",
+  "config": {
+    "bot_enabled": false,
+    "ai_assistant": true,
+    "aim_speed": 0.35,
+    "smoothing": 0.5,
+    "deadzone_px": 3.0,
+    "click_cooldown_ms": 120.0,
+    "humanize": true,
+    "color_tolerance_h": 10.0,
+    "target_size_px": 56.0,
+    "session_length_s": 30.0,
+    "debug_view": false,
+    "target_color": [
+      255,
+      45,
+      45
+    ]
+  },
+  "stats": {
+    "shots": 16,
+    "hits": 11,
+    "accuracy": 0.6875,
+    "avg_ms": 2707.36,
+    "median_ms": 1516.0,
+    "p95_ms": 7383.0,
+    "min_ms": 250.0,
+    "max_ms": 9250.0
+  },
+  "reaction_times_ms": [
+    297.0,
+    5015.0,
+    9250.0,
+    5516.0,
+    1625.0,
+    1406.0,
+    3422.0,
+    1187.0,
+    297.0,
+    250.0,
+    1516.0
+  ],
+  "ai_coach": {
+    "efficiency_score": 41.2,
+    "feedback": "Aim variance detected. Increasing smoothing for stability.",
+    "suggested_aim_speed": 0.27,
+    "suggested_smoothing": 0.6,
+    "suggested_deadzone": 4.0
+  }
+}

@@ -1,0 +1,2245 @@
+[
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\DirectML.Debug.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2197944
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\DirectML.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 27383832
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\FlashCap.Core.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 412160
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\FlashCap.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 18432
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Microsoft.Bcl.AsyncInterfaces.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 26904
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Microsoft.Bcl.HashCode.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 26920
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Microsoft.ML.OnnxRuntime.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 205792
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Microsoft.Web.WebView2.Core.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 649800
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Microsoft.Web.WebView2.WinForms.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 38984
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Microsoft.Web.WebView2.Wpf.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 82536
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Nefarius.ViGEm.Client.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 290304
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\onnxruntime.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 13804000
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\OpenCvSharp.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 959488
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\OpenCvSharp.Extensions.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 20480
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\OpenCvSharpExtern.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 62044672
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\opencv_videoio_ffmpeg4110_64.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 27954688
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Buffers.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 23816
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Collections.Immutable.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 252752
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Drawing.Common.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 49448
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Formats.Nrbf.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 70952
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Memory.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 145200
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Numerics.Vectors.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 110344
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Reflection.Metadata.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 514856
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Resources.Extensions.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 115536
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Runtime.CompilerServices.Unsafe.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 19256
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Runtime.WindowsRuntime.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 51272
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Text.Encodings.Web.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 79024
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Text.Json.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 644888
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.Threading.Tasks.Extensions.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 25984
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\System.ValueTuple.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": true,
+      "size": 75024
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\WebView2Loader.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 160320
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\dll\\x64\\OpenCvSharpExtern.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 62044672
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\dll\\x64\\opencv_videoio_ffmpeg4110_64.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 27954688
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\dll\\x86\\OpenCvSharpExtern.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": false,
+      "size": 42627072
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\dll\\x86\\opencv_videoio_ffmpeg4110.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": false,
+      "size": 24788480
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\avcodec-61.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 88414720
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\avutil-59.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2822656
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\D3Dcompiler_47.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 4669440
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libb2-1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 34653
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libbrotlicommon.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 143429
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libbrotlidec.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 62461
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libbz2-1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 108633
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libcpp-steam-tools.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 313567
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libcrypto-3-x64.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 5495630
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libdouble-conversion.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 77810
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libdovi.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1370085
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libevent-7.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 444325
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libfftw3-3.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 4291210
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libfreetype-6.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 790651
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libgcc_s_seh-1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 150998
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libglib-2.0-0.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1566649
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libgraphite2.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 167155
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libharfbuzz-0.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1563763
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libhidapi-0.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 71576
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libiconv-2.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1143148
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libicudt78.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 33120806
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libicuin78.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 3186867
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libicuuc78.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1999466
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libidn2-0.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 247081
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libintl-8.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 298731
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libjson-c-5.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 118271
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\liblcms2-2.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 456345
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libmd4c.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 88026
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libminiupnpc.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 124714
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libnghttp2-14.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 215032
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libopus-0.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 500112
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libpcre2-16-0.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 653924
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libpcre2-8-0.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 717955
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libplacebo-365.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 8035393
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libpng16-16.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 264269
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libpsl-5.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 105304
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libshaderc_shared.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 10596561
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libspeexdsp-1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 111227
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libspirv-cross-c-shared.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 3417093
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libssh2-1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 312147
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libstdc++-6.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2661299
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libunistring-5.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2251328
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libwinpthread-1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 63875
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\libzstd.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1218273
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\lu.exe",
+    "ext": ".exe",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 6139904
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6Core.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 7153377
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6Gui.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 10631984
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6LabsFolderListModel.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 147341
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6Network.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2161710
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6OpenGL.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 630806
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6Qml.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 6714427
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QmlCore.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 154067
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QmlMeta.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 191971
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QmlModels.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1207286
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QmlWorkerScript.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 90540
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6Quick.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 7804757
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 110675
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2Basic.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2101112
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2BasicStyleImpl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 99738
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2FluentWinUI3StyleImpl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 247593
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2Fusion.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1679763
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2FusionStyleImpl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 203082
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2Imagine.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 3638613
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2ImagineStyleImpl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 68694
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2Impl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 390728
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2Material.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2148035
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2MaterialStyleImpl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 356406
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2Universal.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1786718
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2UniversalStyleImpl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 152197
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickControls2WindowsStyleImpl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 97442
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickDialogs2.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 189404
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickDialogs2QuickImpl.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 3306081
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickDialogs2Utils.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 48347
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickEffects.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 366059
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickLayouts.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 418383
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickShapes.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 365437
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6QuickTemplates2.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2506990
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6Svg.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 694691
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Qt6Widgets.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 7826877
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\SDL2.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2378700
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\SDL3.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 5798377
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\swresample-5.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 658944
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\swscale-8.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 703488
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\Vortx Stream.exe",
+    "ext": ".exe",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": true,
+      "size": 7665152
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\vulkan-1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 697427
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\zlib1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 128488
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\generic\\qtuiotouchplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 98488
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\iconengines\\qsvgicon.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 68970
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\imageformats\\qgif.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 39922
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\imageformats\\qico.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 44169
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\imageformats\\qjpeg.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 66873
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\imageformats\\qsvg.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 31914
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\networkinformation\\qglib.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 25766
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\networkinformation\\qnetworklistmanager.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 155624
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\platforms\\qwindows.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1519944
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\Qt\\labs\\folderlistmodel\\qmlfolderlistmodelplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19496
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtCore\\qtqmlcoreplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19455
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQml\\qmlplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19454
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQml\\Models\\modelsplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19465
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQml\\WorkerScript\\workerscriptplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19483
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\qtquick2plugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19505
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\qtquickcontrols2plugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 43423
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Basic\\qtquickcontrols2basicstyleplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 21401
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Basic\\impl\\qtquickcontrols2basicstyleimplplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 20030
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\FluentWinUI3\\qtquickcontrols2fluentwinui3styleplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 3555081
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\FluentWinUI3\\impl\\qtquickcontrols2fluentwinui3styleimplplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 20051
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Fusion\\qtquickcontrols2fusionstyleplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 21344
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Fusion\\impl\\qtquickcontrols2fusionstyleimplplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 20033
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Imagine\\qtquickcontrols2imaginestyleplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 21348
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Imagine\\impl\\qtquickcontrols2imaginestyleimplplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 20036
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\impl\\qtquickcontrols2implplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19492
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Material\\qtquickcontrols2materialstyleplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 21480
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Material\\impl\\qtquickcontrols2materialstyleimplplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 20039
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Universal\\qtquickcontrols2universalstyleplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 21998
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Universal\\impl\\qtquickcontrols2universalstyleimplplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 20042
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Windows\\qtquickcontrols2windowsstyleplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 779353
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Controls\\Windows\\impl\\qtquickcontrols2windowsstyleimplplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 20036
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Dialogs\\qtquickdialogsplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19476
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Dialogs\\quickimpl\\qtquickdialogs2quickimplplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19504
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Effects\\effectsplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19474
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Layouts\\qquicklayoutsplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19474
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\NativeStyle\\qtquickcontrols2nativestyleplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1232978
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Shapes\\qmlshapesplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 19530
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Templates\\qtquicktemplates2plugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 20849
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qml\\QtQuick\\Window\\quickwindowplugin.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 21662
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_debugger.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 272420
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_inspector.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 120946
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_local.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 29788
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_messages.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 29955
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_native.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 46360
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_nativedebugger.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 74576
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_preview.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 249979
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_profiler.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 129940
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_quickeventreplay.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 39668
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_quickprofiler.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 38408
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_server.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 117888
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\qmltooling\\qmldbg_tcp.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 27230
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\styles\\qmodernwindowsstyle.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 300728
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\tls\\qcertonlybackend.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 111679
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\rm_re_fr\\tls\\qschannelbackend.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 311450
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\runtimes\\win-x64\\native\\WebView2Loader.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 160320
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Very important to install\\HidHide_1.5.230_x64.exe",
+    "ext": ".exe",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": false,
+      "size": 8078016
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Very important to install\\NDP48-x86-x64-AllOS-ENU.exe",
+    "ext": ".exe",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": false,
+      "size": 121346568
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Very important to install\\ViGEmBus_1.22.0_x64_x86_arm64.exe",
+    "ext": ".exe",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": false,
+      "size": 6278576
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\Vortx.exe.WebView2\\EBWebView\\Speech Recognition\\1.15.0.1\\Microsoft.CognitiveServices.Speech.core.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 2692424
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\d3dcompiler_47.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 4741488
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\dxcompiler.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 25722880
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\dxil.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1509760
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\ffmpeg.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 3046912
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\libEGL.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 507904
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\libGLESv2.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 8106496
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\vk_swiftshader.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 5611520
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\vulkan-1.dll",
+    "ext": ".dll",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 954368
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\xlu.exe",
+    "ext": ".exe",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 227062784
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\elevate.exe",
+    "ext": ".exe",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": false,
+      "size": 107520
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\darwin_arm64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\darwin_x64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\freebsd_arm64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\freebsd_ia32\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\freebsd_x64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\linux_arm64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\linux_armhf\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\linux_ia32\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\linux_loong64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\linux_riscv64d\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\linux_x64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\musl_arm64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\musl_x64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\openbsd_ia32\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\openbsd_x64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": false,
+      "error": "Not MZ"
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\win32_arm64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": true,
+      "machine": "ARM64",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1442816
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\win32_ia32\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": true,
+      "machine": "x86 (i386)",
+      "is_pe32plus": false,
+      "is_clr": false,
+      "size": 1062400
+    }
+  },
+  {
+    "path": "\u200f\u200fVORTX STORE_ \u0646\u0633\u062e\u0629\\Vortx (1)\\Vortx\\Vortx_buy\\xlu\\resources\\app.asar.unpacked\\node_modules\\koffi\\build\\koffi\\win32_x64\\koffi.node",
+    "ext": ".node",
+    "info": {
+      "valid": true,
+      "machine": "x64 (AMD64)",
+      "is_pe32plus": true,
+      "is_clr": false,
+      "size": 1612288
+    }
+  }
+]

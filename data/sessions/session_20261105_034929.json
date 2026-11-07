@@ -1,0 +1,60 @@
+{
+  "timestamp": "20261105_034929",
+  "config": {
+    "bot_enabled": true,
+    "ai_assistant": true,
+    "aim_speed": 0.2,
+    "smoothing": 0.7,
+    "deadzone_px": 3.0,
+    "click_cooldown_ms": 120.0,
+    "humanize": true,
+    "color_tolerance_h": 10.0,
+    "target_size_px": 56.0,
+    "session_length_s": 30.0,
+    "debug_view": true,
+    "fov_radius_px": 160.0,
+    "max_target_area_px": 7500.0,
+    "controller_mode": true,
+    "controller_lt_aim": true,
+    "disable_mouse_movement": true,
+    "use_roboflow_ai": false,
+    "target_color": [
+      255,
+      45,
+      45
+    ],
+    "controller_bindings": {
+      "AIM_TRIGGER": "L1",
+      "FIRE_TRIGGER": "R1",
+      "TACTICAL_JUMP": "L2",
+      "SLIDE_CANCEL_PRONE": "R3",
+      "MELEE_ACTION": "R2",
+      "STICK_SENSITIVITY": 1.25,
+      "DEADZONE_PX": 3.0
+    },
+    "intensity_profile": "SOFT",
+    "target_priority": "CHEST",
+    "vertical_offset_px": -15.0,
+    "auto_track_enabled": true
+  },
+  "stats": {
+    "shots": 2,
+    "hits": 1,
+    "accuracy": 0.5,
+    "avg_ms": 3375.0,
+    "median_ms": 3375.0,
+    "p95_ms": 3375.0,
+    "min_ms": 3375.0,
+    "max_ms": 3375.0
+  },
+  "reaction_times_ms": [
+    3375.0
+  ],
+  "ai_coach": {
+    "efficiency_score": 30.0,
+    "feedback": "Aim variance detected. Increasing smoothing for stability.",
+    "suggested_aim_speed": 0.2,
+    "suggested_smoothing": 0.75,
+    "suggested_deadzone": 4.0
+  }
+}
